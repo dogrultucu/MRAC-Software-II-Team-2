@@ -16,6 +16,8 @@ The system focuses on **image-based damage detection**, supported by **point clo
 The work is developed within the scope of the MRAC Software II course at IAAC.
 
 ---
+![Group 1 -Software II](https://github.com/user-attachments/assets/233c9217-9fac-4dab-95b8-88b80ba1eb54)
+
 
 ## Overview
 
