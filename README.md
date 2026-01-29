@@ -178,6 +178,9 @@ For LAZ (compressed) file support:
 ```bash
 pip install laspy[lazrs]
 ```
-
+### For easy installation downlaod the --requierments.txt file and run:
+``` 
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+```
 
 
