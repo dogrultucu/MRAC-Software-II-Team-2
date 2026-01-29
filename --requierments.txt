@@ -1,0 +1,21 @@
+# Crack Detection & Point Cloud Processing Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core libraries
+opencv-python>=4.8.0
+open3d>=0.17.0
+numpy>=1.24.0
+
+# Machine Learning
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Spatial algorithms
+scipy>=1.10.0
+
+# Point cloud I/O
+laspy[lazrs]>=2.4.0
+
+# Utilities
+tqdm>=4.65.0
