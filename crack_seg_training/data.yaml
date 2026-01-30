@@ -1,0 +1,18 @@
+# YOLO Segmentation Dataset - Concrete Cracks
+# 6 classes with polygon segmentation
+
+path: C:/Users/USER/AppData/Local/Programs/Microsoft VS Code/Concrete-cracks-1
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes
+names:
+  0: branched cracks
+  1: curved crack
+  2: diagonal crack
+  3: horizontal crack
+  4: network cracks
+  5: vertical cracks
+
+nc: 6

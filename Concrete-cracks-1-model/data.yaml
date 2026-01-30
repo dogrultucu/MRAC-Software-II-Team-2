@@ -1,0 +1,17 @@
+names:
+- branched cracks
+- curved crack
+- diagonal crack
+- horizontal crack
+- network cracks
+- vertical cracks
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: concrete-cracks-zimgb-3n4p1
+  url: https://universe.roboflow.com/mrachardwareii/concrete-cracks-zimgb-3n4p1/dataset/1
+  version: 1
+  workspace: mrachardwareii
+test: ../test/images
+train: ../train/images
+val: ../valid/images

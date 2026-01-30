@@ -1,0 +1,26 @@
+name: crack_detect_photo
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch>=2.0
+  - torchvision
+  - pytorch-cuda=11.8
+  - numpy
+  - opencv
+  - pillow
+  - scipy
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+    - ultralytics>=8.0.0
+    - open3d>=0.17.0
+    - colmap-wrapper>=1.0.0
+    - pycolmap>=0.4.0
+    - transforms3d
+    - plyfile
+    - laspy[lazrs]
